@@ -1,0 +1,15 @@
+{
+  "name": "chatbox-tw",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "version": "1.0.0",
+  "scripts": {
+    "tw:watch": "tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
